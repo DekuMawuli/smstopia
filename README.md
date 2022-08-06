@@ -1,6 +1,7 @@
 # smstopia
 
-A new Flutter project.
+A PHP Backend backend with flutter frontend to read sms and send it to clouds 
+working like a ussd application
 
 ## Getting Started
 
